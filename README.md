@@ -3,3 +3,4 @@ Here we once again this year. Yep I decided to take another wack at submitting a
 
 # Update
 WE WON! 🎉 After 4 years of trying it out! Not really a flex, but I guess it's cool.
+![Acceptance Image](https://github.com/ozanm/WWDC-2021-Neural-Networks/blob/master/Acceptance.png)
